@@ -1,6 +1,6 @@
 # Team Energ-AI-z
 
-- Abraham Abrantes
+- Abraham Montes
 - Chris Lopez
 - Dalma Cerro
 - Joao Brandao
